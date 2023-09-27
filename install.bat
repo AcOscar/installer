@@ -4,8 +4,10 @@ set pwd=%CD%
 set install=%CD%\pyRevit-Revitron-Bundle
 rem set pyrevit=https://github.com/revitron/pyRevit.git
 set pyrevit=https://github.com/eirannejad/pyRevit.git
-set revitron=https://github.com/revitron/revitron.git
-set revitronUi=https://github.com/revitron/revitron-ui.git
+REM set revitron=https://github.com/revitron/revitron.git
+set revitron=https://github.com/AcOscar/revitron.git
+REM set revitronUi=https://github.com/revitron/revitron-ui.git
+set revitronUi=https://github.com/AcOscar/revitron-ui.git
 set extensions=%install%\extensions
 set bin=%install%\bin
 
